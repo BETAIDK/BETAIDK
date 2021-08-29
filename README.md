@@ -9,9 +9,4 @@
 - ⚡ Fun fact: im russian
 
 
-https://camo.githubusercontent.com/51614368b5d721f9a02fea18b1a2267ac68e376e46fb5adb24e63627f1023c62/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4372347a692673686f775f69636f6e733d74727565267468656d653d6461726b
-
-
-
-
-https://github.com/anuraghazra/github-readme-stats
+![IamNatashaBTW github stats](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&theme=dark)
