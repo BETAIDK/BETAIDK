@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with python
 - 💬 Ask me about: how much is 1+1
 - 📫 How to reach me: BETA#6969 on discord
-- 😄 Pronouns: anime girls
+- 😄 Pronouns: BORIS 59 years old Virgin from patach tikva
 - ⚡ Fun fact: im russian
 
 
