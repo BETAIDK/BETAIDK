@@ -25,7 +25,7 @@
 
 ## 📊 My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=BETA&icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=BETA&show_icons=true&theme=dark)
 
 <br/>
 <br/>
