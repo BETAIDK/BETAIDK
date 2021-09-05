@@ -25,7 +25,7 @@
 
 ## 📊 My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117k)
+![](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 <br/>
 <br/>
