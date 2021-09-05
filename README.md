@@ -11,4 +11,4 @@
 
 ![IamNatashaBTW github stats](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&theme=dark)
 
-![das](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGlC0CRU4cWqZfXPO4U_ARxPorFCT_SGVww&usqp=CAU)
+![das](https://steamuserimages-a.akamaihd.net/ugc/921429744023152051/BF2A0B4827C87BB8625977B4FEBD3EB3C6089020/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
