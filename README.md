@@ -24,6 +24,7 @@
 ## 🏆 Github Status
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BETA&theme=dark" width="45%" >
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
