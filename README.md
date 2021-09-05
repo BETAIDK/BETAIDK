@@ -11,4 +11,4 @@
 
 ![IamNatashaBTW github stats](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&theme=dark)
 
-
+![rip](https://cdn.discordapp.com/attachments/806085761073545290/884127941343211560/osrgkrc2pgk71.png)
