@@ -12,6 +12,3 @@
 ![IamNatashaBTW github stats](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&theme=dark)
 
 
-
-![coffee](https://cdn.discordapp.com/attachments/882729961595740161/883786262211858512/Screenshot_20210904-215053_Instagram.jpg)
-
