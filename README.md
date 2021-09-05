@@ -23,7 +23,7 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=IamNatashaBTW_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr4zi&theme=dark)](https://github.com/anuraghazra/github-readme-stats" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BETA&theme=dark" width="45%" >
 
