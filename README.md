@@ -12,5 +12,3 @@
 ![IamNatashaBTW github stats](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&theme=dark)
 
 
-
-![IamNatashaBTW github stats](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFCGJDIc2Zx0&psig=AOvVaw3Fv_vDPONJvDBws8qTURPd&ust=1630950106024000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiAxt-w6PICFQAAAAAdAAAAABAd)
