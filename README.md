@@ -32,23 +32,4 @@
 ![](https://activity-graph.herokuapp.com/graph?username=IamNatashaBTW&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
-<br/>
-<br/>
 
-
-<br/>
-<br/>
-
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.instagram.com/beta_idk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
-
-
-
-</div>
