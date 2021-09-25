@@ -23,13 +23,6 @@
 <br >
 
 
-## 📊 My Github Stats
-
-
-![](https://github-readme-stats.vercel.app/api?username=IamNatashaBTW&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNatashaBTW&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-![](https://activity-graph.herokuapp.com/graph?username=IamNatashaBTW&bg_color=0D1117&color=0D1117&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
 
