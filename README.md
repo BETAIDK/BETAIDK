@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning data bases, C
+- 🌱 I’m currently learning data bases, java
 - 🤔 I’m looking for help with algorithms
 - 📫 How to reach me: BETA#4774 on discord
 <br />
