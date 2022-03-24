@@ -14,10 +14,12 @@
 
 The linux philosophy is "laugh at non linux users". Oops wrong one. "Do it yourself". That's it
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETAIDK)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
 
+  
 
 </div>
 
