@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for help with **algorithms**
 
-- 📫 How to reach me **BETA#5126**
+- 📫 How to reach me BETA#5126
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
