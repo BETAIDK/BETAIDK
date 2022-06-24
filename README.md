@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beta</h1>
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning **java**
 
 - 🤝 I’m looking for help with **algorithms**
 
-- 📫 How to reach me BETA#5126
+- 📫 How to reach me **BETA#5126**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
