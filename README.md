@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beta</h1>
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning java
 
 - 🤝 I’m looking for help with **algorithms**
 
